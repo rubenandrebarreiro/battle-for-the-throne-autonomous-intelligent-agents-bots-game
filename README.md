@@ -1,1 +1,2 @@
-# battle-for-the-throne-autonomous-intelligent-agents-bots-game
+# Battle for the Throne
+## Autonomous & Intelligent Agents'/Bots' Game (FCT NOVA|FCT/UNL)
